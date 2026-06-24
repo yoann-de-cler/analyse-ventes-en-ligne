@@ -38,10 +38,10 @@ Analyser les ventes et le comportement des clients d’une librairie en ligne af
 
 ### 📦 Analyse produits
 - Top / Flop produits (CA et volumes)
-![Top et flop 20 produits en CA](top_flop_produits_ca.png)
+![Top et flop produits en CA](top_flop_produits_ca.png)
 - Analyse par catégorie
 - Contribution au chiffre d’affaires
-![Répartition en % du CA par catégorie(repar_%_ca_par_catégorie.png)
+![Répartition du CA par catégorie(repartition_ca_categorie.png)
 
 
 ### 👥 Analyse clients
