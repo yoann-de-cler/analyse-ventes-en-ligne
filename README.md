@@ -33,22 +33,28 @@ Analyser les ventes et le comportement des clients d’une librairie en ligne af
 ### 💰 Performance des ventes
 - Analyse du chiffre d’affaires global
 - Évolution mensuelle et annuelle des ventes
+![Evolution mensuelle et moyenne mobile 3 mois du CA](evolution_ca_moyenne_mobile.png)
 - Tendances et saisonnalité
 
 ### 📦 Analyse produits
 - Top / Flop produits (CA et volumes)
+![Top et flop 20 produits en CA](top_flop_produits_ca.png)
 - Analyse par catégorie
 - Contribution au chiffre d’affaires
+![Répartition en % du CA par catégorie(repar_%_ca_par_catégorie.png)
+
 
 ### 👥 Analyse clients
 - Segmentation par âge et sexe
 - Identification des clients BtoB vs BtoC
 - Analyse des comportements d’achat
+[Distribution des catégories par age](boxplot_distri_categ_par_age.png)
 
 ### 🔎 Comportement d’achat
 - Fréquence d’achat
 - Nombre de produits achetés
 - Panier moyen
+![Panier moyen par tranche d'age](distribution_age_categorie.png)
 
 ---
 
