@@ -61,7 +61,7 @@ Analyser les ventes et le comportement des clients d’une librairie en ligne af
 
 ---
 
-## 📌 Résultat
+## 📌 Synthèse
 - Analyse des tendances de ventes dans le temps
 - Étude des comportements et segments clients
 - Visualisation des liens entre variables (clients, produits, ventes)
