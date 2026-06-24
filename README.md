@@ -54,7 +54,7 @@ Analyser les ventes et le comportement des clients d’une librairie en ligne af
 - Fréquence d’achat
 - Nombre de produits achetés
 - Panier moyen
-![Panier moyen par tranche d'age](images/distribution_age_categorie.png)
+![Panier moyen par tranche d'age](images/panier_moyen_tranche_age.png)
 
 ---
 
