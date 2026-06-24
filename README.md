@@ -48,7 +48,7 @@ Analyser les ventes et le comportement des clients d’une librairie en ligne af
 - Segmentation par âge et sexe
 - Identification des clients BtoB vs BtoC
 - Analyse des comportements d’achat
-![Distribution des catégories par age](images/boxplot_distri_categ_par_age.png)
+![Distribution des ages selon la catégorie achetée](images/distribution_age_categorie.png)
 
 ### 🔎 Comportement d’achat
 - Fréquence d’achat
